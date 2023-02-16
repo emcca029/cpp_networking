@@ -10,8 +10,6 @@ enum class CustomMsgTypes : uint32_t
 	ServerMessage,
 };
 
-
-
 class CustomServer : public olc::net::server_interface<CustomMsgTypes>
 {
 public:
