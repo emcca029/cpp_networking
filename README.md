@@ -1,1 +1,3 @@
-# cpp_networking
+# cpp_server
+
+A simple cpp server using asio libraries.
